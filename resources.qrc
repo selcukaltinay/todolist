@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/add.png</file>
+        <file>resources/remove.png</file>
+        <file>resources/start.png</file>
+        <file>resources/stop.png</file>
+        <file>resources/add.gif</file>
+        <file>resources/remove.gif</file>
+        <file>resources/start.gif</file>
+        <file>resources/stop.gif</file>
+        <file>resources/timer.gif</file>
+    </qresource>
+</RCC>
